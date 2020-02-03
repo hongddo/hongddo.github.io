@@ -9,7 +9,7 @@ sidebar:
 ## 1. 구현
  - 아래 패키지를 생성한다.
    - src/main/java/interceptor
- - 생성된 패키지 하위에 Interceptor 역할울 수행할 Class를 구현한다.
+ - 생성된 패키지 하위에 Interceptor 역할울 수행할 Class를 구현한다. TEST
 
  ```java
  @Component
